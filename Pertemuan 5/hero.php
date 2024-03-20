@@ -17,7 +17,7 @@ class Hero{
         echo "<br> Name: " . $this->name;
         echo "<br> Health Poin: " . $this->hp;
         echo "<br> Damage: " . $this->damage;
-        echo "<br> ============================";
+        echo "<br> =============================";
     }
 
 public function attack ($target){
